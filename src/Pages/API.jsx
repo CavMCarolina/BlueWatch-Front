@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import video from "../assets/video_api.mp4";
+// import video from "../assets/video_api.mp4";
 
 export default function API() {
   const [fotos, setFotos] = useState([]);
@@ -14,9 +14,9 @@ export default function API() {
     <>
       <div className="background-container">
         {/* Video de Fundo */}
-        <video autoPlay loop muted className="video">
+        {/* <video autoPlay loop muted className="video">
           <source src={video} type="video/mp4" alt="Video de fundo" />
-        </video>
+        </video> */}
         <div className="transicao1"></div>
       </div>
       <h1 className="titulo negativo">O Oceano que você conhece:</h1>
