@@ -1,0 +1,2 @@
+Esse repositório foi criado para a reparação projeto BlueWatch, um site voltado à conscientização sobre a situação atual dos oceanos, incentivando a participação na causa e destacando ONGs atuantes na área.
+Como fui responsável pelo desenvolvimento front-end, apenas fiz alguns ajustes nos vídeos que estavam dando erro :)
