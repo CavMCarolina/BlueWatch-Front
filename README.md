@@ -44,4 +44,4 @@ Além de apresentar essas informações de forma clara e acessível, o BlueWatch
    npm start
 
 ## 👩‍💻 Desenvolvido por:
-Carolina Cavalli Machado · 🔗 [LinkedIn](https://www.linkedin.com/in/seu-usuario)
+Carolina Cavalli Machado · 🔗 [LinkedIn](https://www.linkedin.com/in/carolinacavallimachado)
