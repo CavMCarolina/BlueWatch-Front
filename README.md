@@ -29,19 +29,15 @@ Além de apresentar essas informações de forma clara e acessível, o BlueWatch
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/bluewatch.git
+   git clone https://github.com/seu-usuario/bluewatch.git](https://github.com/CavMCarolina/BlueWatch-Front.git
 
-2. Acesse a pasta do projeto:
+2. Instale as dependências:
    ```bash
-   cd bluewatch
+   npm i
 
-3. Instale as dependências:
+3. Inicie o projeto:
    ```bash
-   npm install
-
-4. Inicie o projeto:
-   ```bash
-   npm start
+   npm run dev
 
 ## 👩‍💻 Desenvolvido por:
 Carolina Cavalli Machado · 🔗 [LinkedIn](https://www.linkedin.com/in/carolinacavallimachado)
