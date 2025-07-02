@@ -40,7 +40,7 @@ Além de apresentar essas informações de forma clara e acessível, o BlueWatch
    npm run dev
 
 ## 🌐 Acesse o BlueWatch Online
-🔗 [Clique aqui para acessar a aplicação](https://iridescent-daifuku-3f6244.netlify.app)
+🔗 [Clique aqui para acessar o site](https://iridescent-daifuku-3f6244.netlify.app)
 
 ## 👩‍💻 Desenvolvido por:
 Carolina Cavalli Machado · 🔗 [LinkedIn](https://www.linkedin.com/in/carolinacavallimachado)
