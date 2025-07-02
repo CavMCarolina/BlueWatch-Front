@@ -29,7 +29,7 @@ Além de apresentar essas informações de forma clara e acessível, o BlueWatch
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/bluewatch.git](https://github.com/CavMCarolina/BlueWatch-Front.git
+   git clone https://github.com/CavMCarolina/BlueWatch-Front.git
 
 2. Instale as dependências:
    ```bash
